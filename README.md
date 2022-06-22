@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<!--
-**Kim-Jiwan/Kim-Jiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
+  
+<h3>Record rather than momorize</h3>
+  
+<h3>💻 Tech Stack 💻</h3>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/verilog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/>
+  
+<br>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ 
+<br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
