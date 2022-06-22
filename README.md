@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/verilog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Synopsys tools-4B32C3?style=flat-square&logo=Stripe&logoColor=white"/>
   
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
