@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Synopsys tools-4B32C3?style=flat-square&logo=Stripe&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 <br></br>
 <h2>Project</h2>
