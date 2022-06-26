@@ -6,7 +6,7 @@
 
 <a href="https://k-j-w.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-FF5722?style=flat&logo=Telegraph&logoColor=white"/></a>
 <a href="https://www.instagram.com/zi_vvan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- 
+<br></br>
 <h3>💻 Tech Stack 💻</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -14,16 +14,24 @@
 <img src="https://img.shields.io/badge/verilog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Synopsys tools-4B32C3?style=flat-square&logo=Stripe&logoColor=white"/>
-  
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+<br></br>
+<h3>Project</h3>
+<div align = "center">
+<h4>Implementation Chess on FPGA</h4>
+<div>22.05~22.06</div>
+<h4>16bit MIP&S CPU Design & Synthesis & PnR</h4>
+<div>22.03~22.04</div>
+<h4>32bit VMIPS SIMD processor Design & Synthesis & PnR / Leading overall design</h4>
+<div>22.05~</div>
+</div>
  
-<br>
-<br>
-<br>
+<br></br>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
