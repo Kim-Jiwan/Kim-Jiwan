@@ -30,8 +30,6 @@
 <h3>32bit VMIPS SIMD processor Design & Synthesis & PnR / Leading overall design</h3>
 <div>22.05~</div>
 </div>
- 
-<br></br>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
