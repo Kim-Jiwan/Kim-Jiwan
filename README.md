@@ -2,12 +2,12 @@
 
 <div align = "center">
   
-<h3>Record rather than momorize</h3>
+<h1>Record rather than momorize</h1>
 
 <a href="https://k-j-w.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-FF5722?style=flat&logo=Telegraph&logoColor=white"/></a>
 <a href="https://www.instagram.com/zi_vvan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <br></br>
-<h3>💻 Tech Stack 💻</h3>
+<h2>💻 Tech Stack 💻</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
@@ -21,13 +21,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <br></br>
-<h3>Project</h3>
+<h2>Project</h2>
 <div align = "center">
-<h4>Implementation Chess on FPGA</h4>
+<h3>Implementation Chess on FPGA</h3>
 <div>22.05~22.06</div>
-<h4>16bit MIP&S CPU Design & Synthesis & PnR</h4>
+<h3>16bit MIP&S CPU Design & Synthesis & PnR</h3>
 <div>22.03~22.04</div>
-<h4>32bit VMIPS SIMD processor Design & Synthesis & PnR / Leading overall design</h4>
+<h3>32bit VMIPS SIMD processor Design & Synthesis & PnR / Leading overall design</h3>
 <div>22.05~</div>
 </div>
  
