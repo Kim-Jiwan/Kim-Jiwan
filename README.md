@@ -28,7 +28,7 @@
 <h3>16bit MIPS CPU Design & Synthesis & PnR</h3>
 <div>22.03~22.04</div>
 <h3>32bit VMIPS SIMD processor Design & Synthesis & PnR / Leading overall design</h3>
-<div>22.05~</div>
+<div>22.05~22.07</div>
 </div>
 </div>
 
