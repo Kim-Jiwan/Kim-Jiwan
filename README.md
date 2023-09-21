@@ -2,7 +2,7 @@
 
 <div align = "center">
   
-<h2>Record rather than momorize</h2>
+<h2>.</h2>
 
 <a href="https://k-j-w.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-FF5722?style=flat&logo=Telegraph&logoColor=white"/></a>
 <a href="https://www.instagram.com/zi_vvan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
